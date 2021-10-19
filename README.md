@@ -1,1 +1,1 @@
-# -epoch-sample-production-manifest
+# epoch-sample-production-manifest
